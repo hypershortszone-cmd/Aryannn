@@ -1,0 +1,52 @@
+{
+  "placeholderImages": [
+    {
+      "id": "physics-hero",
+      "description": "Abstract physics concept illustration",
+      "imageUrl": "https://images.unsplash.com/photo-1758314896569-b3639ee707c4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxhYnN0cmFjdCUyMHBoeXNpY3N8ZW58MHx8fHwxNzYzMjAxNzU5fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "abstract physics"
+    },
+    {
+      "id": "chemistry-hero",
+      "description": "Abstract chemistry concept illustration",
+      "imageUrl": "https://images.unsplash.com/photo-1755107504668-9915379512f9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxhYnN0cmFjdCUyMGNoZW1pc3RyeXxlbnwwfHx8fDE3NjMxMTM4MzR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "abstract chemistry"
+    },
+    {
+      "id": "biology-hero",
+      "description": "Abstract biology concept illustration",
+      "imageUrl": "https://images.unsplash.com/photo-1762680774377-2fed81546bd4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxhYnN0cmFjdCUyMGJpb2xvZ3l8ZW58MHx8fHwxNzYzMjAxNzYwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "abstract biology"
+    },
+    {
+      "id": "pendulum-simulation",
+      "description": "Pendulum experiment simulation placeholder",
+      "imageUrl": "https://images.unsplash.com/photo-1602052577122-f73b9710adba?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxzY2llbmNlJTIwbGFib3JhdG9yeXxlbnwwfHx8fDE3NjMxODk5ODd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "science laboratory"
+    },
+    {
+      "id": "titration-simulation",
+      "description": "Titration experiment simulation placeholder",
+      "imageUrl": "https://images.unsplash.com/photo-1602052577122-f73b9710adba?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxjaGVtaXN0cnklMjBsYWJ8ZW58MHx8fHwxNzYzMTc1NzUwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "chemistry lab"
+    },
+    {
+      "id": "microscope-simulation",
+      "description": "Microscope experiment simulation placeholder",
+      "imageUrl": "https://images.unsplash.com/photo-1644765046884-9bf1923ad1d2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxtaWNyb3Njb3BlJTIwdmlld3xlbnwwfHx8fDE3NjMyMDE3NTl8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "microscope view"
+    },
+    {
+      "id": "user-avatar-1",
+      "description": "User avatar placeholder",
+      "imageUrl": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxwZXJzb24lMjBwb3J0cmFpdHxlbnwwfHx8fDE3NjMxNDEzMjJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "person portrait"
+    },
+    {
+      "id": "onboarding-background",
+      "description": "Abstract background for onboarding screen",
+      "imageUrl": "https://images.unsplash.com/photo-1620641788421-7a1c342ea42e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxhYnN0cmFjdCUyMGdyYWRpZW50fGVufDB8fHx8MTc2MzEwNTgxNXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "abstract gradient"
+    }
+  ]
+}
